@@ -1,0 +1,5 @@
+numpy==1.23.5
+torch==2.0.1
+transformers==4.28.1
+faiss-cpu==1.7.3
+jupyter==1.0.0
