@@ -3,3 +3,4 @@ torch>=1.13.0
 ipywidgets
 huggingface_hub>=0.13.0
 accelerate>=0.26.0
+optimum
