@@ -1,2 +1,4 @@
-transformers==4.29.0
-torch==2.0.1 -f https://download.pytorch.org/whl/torch_stable.html
+transformers>=4.37.0
+torch>=1.13.0
+tokenizers>=0.13.0
+huggingface_hub>=0.13.0
